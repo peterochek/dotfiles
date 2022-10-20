@@ -1,0 +1,5 @@
+[user]
+	name = Peter Korolev
+	email = peterkkor@gmail.com
+[init]
+	defaultBranch = main
